@@ -4,6 +4,8 @@
 
 
 # circuit design
+![image](https://github.com/codecinn27/os_assignment_petrol_system/assets/103735025/c6b7ad16-58ac-4f76-9567-010647943923)
+
 ![image](https://github.com/codecinn27/os_assignment_petrol_system/assets/103735025/c95bbb47-e078-49fc-8a41-08fa88c7051f)
 
 
