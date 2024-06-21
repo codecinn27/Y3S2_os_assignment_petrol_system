@@ -1,3 +1,13 @@
+# introduction
+
+![image](https://github.com/codecinn27/os_assignment_petrol_system/assets/103735025/4b4be3ff-d74d-4ce2-a3cc-4754bffdc57a)
+
+
+# circuit design
+![Uploading image.png…]()
+
+
+
 # results
 Demo video: initial pump set at 10,000 : https://youtu.be/b4K0kMJBRvM
 
