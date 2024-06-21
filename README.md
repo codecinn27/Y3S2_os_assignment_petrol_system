@@ -1,6 +1,6 @@
-<h1>Introduction</h1>
+<h1>Introduction:</h1>
 <img src="https://github.com/codecinn27/os_assignment_petrol_system/assets/103735025/4b4be3ff-d74d-4ce2-a3cc-4754bffdc57a" width="600" alt="Introduction Image">
-
+<P>UTEM Operating System FTKEK, lecturer: Dr Lim Kim Chuan</P>
 <h1>Circuit Design</h1>
 <img src="https://github.com/codecinn27/os_assignment_petrol_system/assets/103735025/c6b7ad16-58ac-4f76-9567-010647943923" width="600" alt="Circuit Design Image 1">
 <img src="https://github.com/codecinn27/os_assignment_petrol_system/assets/103735025/c95bbb47-e078-49fc-8a41-08fa88c7051f" width="600" alt="Circuit Design Image 2">
